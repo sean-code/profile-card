@@ -134,6 +134,13 @@ h5 {
   height: 10%;
 }
 
+.location img{
+  height: 15px;
+  background-color:#13e42f;
+  padding: 2px;
+  border-radius: 2px;
+}
+
 
 .location a {
   text-decoration: none;
