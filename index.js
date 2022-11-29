@@ -1,3 +1,10 @@
+
+// Dropdown Menu
+
+
+
+
+// Profile Card
 var messageBox = document.querySelector('.js-message');
   var btn = document.querySelector('.js-message-btn');
   var card = document.querySelector('.js-profile-card');
@@ -15,3 +22,6 @@ var messageBox = document.querySelector('.js-message');
           card.classList.remove('active');
       });
   });
+
+
+  
