@@ -136,17 +136,17 @@ h5 {
   font-weight: 400;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 2px;
-  color: rgb(233, 55, 23);
+  color: rgba(120, 138, 219, 0.842);
 }
 .occupation {
   font-size: 20px;
   font-weight:bolder;
   font-style: italic;
-  color: rgb(233, 55, 23);
+  color: rgba(120, 138, 219, 0.842);
   margin-bottom: 2px;
 }
 .location {
-  color: rgb(233, 55, 23);
+  color: rgb(37, 73, 235);
   font-size: 14px;
   margin-top: 5px;
   margin-bottom: 15px;
@@ -173,11 +173,11 @@ h5 {
   font-size:medium;
   font-style: italic;
   font-weight: 800;
-  color: #13e42f;
+  color: rgba(120, 138, 219, 0.842);
 }
 .followers-title {
   font-size: 30px;
-  color: rgb(233, 55, 23);
+  color: rgba(120, 138, 219, 0.842);
   margin-bottom: 5px;
 }
 .followers-list {
