@@ -136,22 +136,22 @@ h5 {
   font-weight: 400;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 2px;
-  color: rgba(47, 79, 221, 0.842);
+  color: #f15107;
 }
 .occupation {
   font-size: 20px;
   font-weight:bolder;
   font-style: italic;
-  color: rgba(47, 79, 221, 0.842);
+  color: #cc5017;
   margin-bottom: 2px;
 }
 .location {
-  color: rgba(47, 79, 221, 0.842);
+  color: #aa4c20;
   font-size: 14px;
   margin-top: 5px;
   margin-bottom: 15px;
   padding-bottom: 15px;
-  border-bottom: 1px solid rgba(47, 79, 221, 0.842);
+  border-bottom: 1px solid green;
 }
 .location .fa {
   color: #3ee228;
@@ -173,11 +173,11 @@ h5 {
   font-size:medium;
   font-style: italic;
   font-weight: 800;
-  color: rgba(47, 79, 221, 0.842);
+  color: #f15107;
 }
 .followers-title {
   font-size: 30px;
-  color: rgba(47, 79, 221, 0.842);
+  color: #f15107;
   margin-bottom: 5px;
 }
 .followers-list {
@@ -232,3 +232,20 @@ h5 {
   transition: 1s ease-out;
 }
 
+
+/* Time Display */
+
+#display{
+  text-align: center;
+  font-size: xx-large;
+  color: #3f1806;
+  font-weight: 800;
+}
+
+#date{
+  padding-top: 4%;
+  text-align: center;
+  font-size: xx-large;
+  color: #642305;
+  font-weight: 800;
+}
