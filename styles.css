@@ -271,13 +271,14 @@ h5 {
 #date{
   margin-top: 3%;
   text-align: center;
-  font-size: large;
+  font-size: 1.5rem;
   color: #642305;
   font-weight: 800;
 }
 
 
 #display{
+  font-size: 1.7rem;
   text-align: center;
   font-size: large;
   color: #3f1806;
